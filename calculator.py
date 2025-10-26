@@ -14,3 +14,9 @@ def multiply(a, b):
 
 result3 = multiply(3, 4)
 print(f"3 * 4 = {result3}")
+
+def delay(a, b):
+    return a / b
+
+result3 = delay(3, 4)
+print(f"3 / 4 = {result3}")
