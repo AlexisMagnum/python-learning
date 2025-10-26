@@ -1,0 +1,18 @@
+Your identification has been saved in C:\Users\alexi/.ssh/id_ed25519
+Your public key has been saved in C:\Users\alexi/.ssh/id_ed25519.pub
+The key fingerprint is:
+SHA256:1hlaUijawM+3kJqxYwOPczO1Ku0r/FN/kUfFBw+WS+o aleksejcemodurov3@gmail.com
+The key's randomart image is:
++--[ED25519 256]--+
+|   .     ..  .+o |
+|    o . ..   .=o.|
+|     * o. o  + o.|
+|  . o B .= oo .  |
+|   + * +S.o+     |
+|  o % o.. o E    |
+| . = B .   o     |
+|  + +   . .      |
+|   =+o   .       |
++----[SHA256]-----+
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEBWh+TNt2NkUfL12Pj6y0QsoZhwvJG5a3y9rASw6hZV aleksejcemodurov3@gmail.com
