@@ -22,3 +22,5 @@ result3 = delay(3, 4)
 print(f"3 / 4 = {result3}")
 
 print('звапропвзаоп')
+
+print('gdfgdf')
