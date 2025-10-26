@@ -9,3 +9,6 @@ cursor.execute('''
 		name TEXT
 	)
 	''')
+
+conn.commit()
+conn.close()
